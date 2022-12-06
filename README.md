@@ -1,2 +1,3 @@
 # Fake-News-Detector
-# Fake-News-Detector
+![Home Page](HomePage.PNG)
+

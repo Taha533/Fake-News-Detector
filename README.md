@@ -37,7 +37,7 @@ To use the Fake-News-Detector, follow these steps:
 ## Project Structure
 The project repository is structured as follows:
 
-**fake_news_detection.py**: This file contains the Flask application code responsible for handling web requests and serving the classification results.\
+**fake_news_detection.py**: This file contains the Flask application code responsible for handling web requests and serving the classification results.
 
 **classifier.pkl**: This file stores the trained model object in serialized form. The model is used for classifying news articles. 
 
